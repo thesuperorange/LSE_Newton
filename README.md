@@ -5,7 +5,7 @@ A=LU
 A' =U'L' 
 
 ## LSE
-(At*A+lambda*y)' * (At*y)
+(At*A+lambda * y)' * (At*y)
 
 ## Newton
 (At*A)' * (At*y)
