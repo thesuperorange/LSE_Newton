@@ -2,13 +2,14 @@
 
 ## LU decomposition
 A=LU
+
 A' =U'L' 
 
 ## LSE
-(At*A+lambda * y)' * (At*y)
+(At * A+lambda * y)' * (At * y)
 
 ## Newton
-(At*A)' * (At*y)
+(At * A)' * (At * y)
 
 ## Error
-|(A*x)-y|^2
+|(A * x)-y|^2
