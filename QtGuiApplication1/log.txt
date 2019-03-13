@@ -1,0 +1,415 @@
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(120) (2019-03-07 14:05:23 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(121) (2019-03-07 14:05:23 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(122) (2019-03-07 14:05:23 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(123) (2019-03-07 14:05:23 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(53) (2019-03-07 14:08:12 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(54) (2019-03-07 14:08:12 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:08:12 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:08:12 週四) This is a critical message
+Warning: File:(qwindowswindow.cpp) Line:(1682) (2019-03-07 14:08:13 週四) QWindowsWindow::setGeometry: Unable to set geometry 200x100+1048+632 on QWidgetWindow/'QtGuiApplication1ClassWindow'. Resulting geometry:  236x100+1048+632 (frame: 13, 58, 13, 13, custom margin: 0, 0, 0, 0, minimum size: 0x0, maximum size: 16777215x16777215).
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(53) (2019-03-07 14:08:46 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(54) (2019-03-07 14:08:46 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:08:46 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:08:46 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(106) (2019-03-07 14:08:46 週四) Newton:
+Warning: File:(qwindowswindow.cpp) Line:(1682) (2019-03-07 14:08:48 週四) QWindowsWindow::setGeometry: Unable to set geometry 200x100+1048+632 on QWidgetWindow/'QtGuiApplication1ClassWindow'. Resulting geometry:  236x100+1048+632 (frame: 13, 58, 13, 13, custom margin: 0, 0, 0, 0, minimum size: 0x0, maximum size: 16777215x16777215).
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:14:36 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:14:36 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:14:36 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:14:36 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(126) (2019-03-07 14:14:36 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:15:33 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:15:33 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:15:33 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:15:33 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(126) (2019-03-07 14:15:33 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:16:24 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:16:24 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:16:24 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:16:24 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:17:37 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:17:37 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:17:37 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:17:37 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:18:02 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:18:02 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:18:02 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:18:02 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:19:49 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:19:49 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:19:49 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:19:49 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(126) (2019-03-07 14:19:49 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:22:13 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:22:13 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:22:13 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:22:13 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(126) (2019-03-07 14:22:13 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:22:29 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:22:29 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:22:29 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:22:29 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(126) (2019-03-07 14:22:29 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:26:15 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:26:15 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:26:15 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:26:15 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(126) (2019-03-07 14:26:15 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:29:29 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:29:29 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:29:29 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:29:29 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:30:12 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:30:12 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:30:12 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:30:12 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(129) (2019-03-07 14:30:12 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:32:06 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:32:06 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:32:06 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:32:06 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 14:32:06 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:32:42 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:32:42 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:32:42 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:32:42 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 14:32:42 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:36:51 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:36:51 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:36:51 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:36:51 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 14:36:51 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:39:40 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:39:40 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:39:40 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:39:40 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 14:39:40 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:40:05 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:40:05 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:40:05 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:40:05 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 14:40:05 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:40:30 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:40:30 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:40:30 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:40:30 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 14:40:30 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:41:03 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:41:03 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:41:03 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:41:03 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 14:41:03 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:42:10 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:42:10 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:42:10 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:42:10 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 14:42:10 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:42:38 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:42:38 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:42:38 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:42:38 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 14:42:38 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:42:59 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:42:59 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:42:59 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:42:59 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 14:42:59 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:44:04 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:44:04 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:44:04 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:44:04 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 14:44:04 週四) Total Error: 536870912
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 14:44:23 週四) "Can not find axis on the chart."
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 14:44:23 週四) "Can not find axis on the chart."
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:46:48 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:46:48 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:46:48 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:46:48 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 14:46:48 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:58:09 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:58:09 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:58:09 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:58:09 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 14:58:09 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:58:33 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:58:33 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:58:33 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:58:33 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 14:58:33 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:59:00 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:59:00 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:59:00 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:59:00 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 14:59:00 週四) Total Error: 536870912
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Warning: File:(c:\users\qt\work\qt\qtcharts\include\qtcharts\5.12.1\qtcharts\private\../../../../../src/charts/charthelpers_p.h) Line:(48) (2019-03-07 14:59:00 週四) Ignored NaN, Inf, or -Inf value.
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 14:59:51 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 14:59:51 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 14:59:51 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 14:59:51 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 14:59:51 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 15:03:52 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 15:03:52 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 15:03:52 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 15:03:52 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 15:03:52 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 20:43:34 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 20:43:34 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 20:43:34 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 20:43:34 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 20:43:34 週四) Total Error: 536870912
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 20:43:45 週四) "Can not find axis on the chart."
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 20:43:45 週四) "Can not find axis on the chart."
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 20:44:24 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 20:44:24 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 20:44:24 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 20:44:24 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 20:44:24 週四) Total Error: 536870912
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 20:44:39 週四) "Can not find axis on the chart."
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 20:44:39 週四) "Can not find axis on the chart."
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 20:46:04 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 20:46:04 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 20:46:04 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 20:46:04 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 20:46:04 週四) Total Error: 536870912
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 20:46:09 週四) "Can not find axis on the chart."
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 20:46:09 週四) "Can not find axis on the chart."
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 20:46:54 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 20:46:54 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 20:46:54 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 20:46:54 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 20:46:54 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 20:51:35 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 20:51:35 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 20:51:35 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 20:51:35 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 20:51:35 週四) Total Error: 536870912
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 20:51:47 週四) "Can not find axis on the chart."
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 20:51:47 週四) "Can not find axis on the chart."
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(55) (2019-03-07 20:52:23 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 20:52:23 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 20:52:23 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 20:52:23 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(131) (2019-03-07 20:52:23 週四) Total Error: 536870912
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 20:52:31 週四) "Can not find axis on the chart."
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 20:52:31 週四) "Can not find axis on the chart."
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 21:00:47 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:00:47 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:00:47 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:00:47 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(137) (2019-03-07 21:00:47 週四) Total Error: 536870912
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 21:01:26 週四) "Can not find axis on the chart."
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 21:01:26 週四) "Can not find axis on the chart."
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 21:02:10 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:02:10 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:02:10 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:02:10 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(137) (2019-03-07 21:02:10 週四) Total Error: 536870912
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 21:02:25 週四) "Can not find axis on the chart."
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 21:02:25 週四) "Can not find axis on the chart."
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 21:03:30 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:03:30 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:03:30 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:03:30 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(137) (2019-03-07 21:03:30 週四) Total Error: 536870912
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 21:04:17 週四) "Can not find axis on the chart."
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 21:04:17 週四) "Can not find axis on the chart."
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 21:15:51 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:15:51 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:15:51 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:15:51 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(137) (2019-03-07 21:15:51 週四) Total Error: 536870912
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 21:16:08 週四) "Can not find axis on the chart."
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 21:16:08 週四) "Can not find axis on the chart."
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 21:17:24 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:17:24 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:17:24 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:17:24 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(137) (2019-03-07 21:17:24 週四) Total Error: -2147483648
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 21:19:48 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:19:48 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:19:48 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:19:48 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(136) (2019-03-07 21:19:48 週四) Total Error: -2147483648
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 21:20:09 週四) "Can not find axis on the chart."
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 21:20:09 週四) "Can not find axis on the chart."
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 21:22:24 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:22:24 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:22:24 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:22:24 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(136) (2019-03-07 21:22:24 週四) Total Error: -2147483648
+Warning: File:(windows\qwindowsfontdatabase.cpp) Line:(1959) (2019-03-07 21:22:25 週四) DirectWrite: CreateFontFaceFromHDC() failed (指示輸入檔案 (例如，字型檔案) 中的錯誤。) for QFontDef(Family="Fixedsys", pointsize=18, pixelsize=20, styleHint=5, weight=50, stretch=100, hintingPreference=0) LOGFONT("Fixedsys", lfWidth=0, lfHeight=-20) dpi=96
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 21:22:59 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:22:59 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:22:59 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:22:59 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(136) (2019-03-07 21:22:59 週四) Total Error: -2147483648
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 21:23:13 週四) "Can not find axis on the chart."
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 21:23:13 週四) "Can not find axis on the chart."
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 21:34:27 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:34:27 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:34:27 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:34:27 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(136) (2019-03-07 21:34:27 週四) Total Error: 1073741824
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 21:35:18 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:35:18 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:35:18 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:35:18 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(136) (2019-03-07 21:35:18 週四) Total Error: -536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 21:36:19 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:36:19 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:36:19 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:36:19 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(136) (2019-03-07 21:36:19 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(56) (2019-03-07 21:39:34 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:39:34 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:39:34 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:39:34 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(140) (2019-03-07 21:39:34 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:48:30 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:48:30 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:48:30 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(60) (2019-03-07 21:48:30 週四) This is a critical message
+Warning: File:(qwindowswindow.cpp) Line:(1682) (2019-03-07 21:48:32 週四) QWindowsWindow::setGeometry: Unable to set geometry 640x480+344+61 on QWidgetWindow/'DialogClassWindow'. Resulting geometry:  640x559+344+61 (frame: 8, 31, 8, 8, custom margin: 0, 0, 0, 0, minimum size: 400x559, maximum size: 16777215x16777215).
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(142) (2019-03-07 21:48:33 週四) Total Error: 536870912
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 21:48:51 週四) "Can not find axis on the chart."
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 21:48:51 週四) "Can not find axis on the chart."
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:49:25 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:49:25 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:49:25 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(60) (2019-03-07 21:49:25 週四) This is a critical message
+Warning: File:(qwindowswindow.cpp) Line:(1682) (2019-03-07 21:49:28 週四) QWindowsWindow::setGeometry: Unable to set geometry 640x480+344+61 on QWidgetWindow/'DialogClassWindow'. Resulting geometry:  640x559+344+61 (frame: 8, 31, 8, 8, custom margin: 0, 0, 0, 0, minimum size: 400x559, maximum size: 16777215x16777215).
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(144) (2019-03-07 21:49:37 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:55:36 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:55:36 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:55:36 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(60) (2019-03-07 21:55:36 週四) This is a critical message
+Warning: File:(qwindowswindow.cpp) Line:(1682) (2019-03-07 21:55:38 週四) QWindowsWindow::setGeometry: Unable to set geometry 640x480+344+61 on QWidgetWindow/'DialogClassWindow'. Resulting geometry:  640x559+344+61 (frame: 8, 31, 8, 8, custom margin: 0, 0, 0, 0, minimum size: 400x559, maximum size: 16777215x16777215).
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(146) (2019-03-07 21:55:44 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:56:08 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:56:08 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:56:08 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(60) (2019-03-07 21:56:08 週四) This is a critical message
+Warning: File:(qwindowswindow.cpp) Line:(1682) (2019-03-07 21:56:10 週四) QWindowsWindow::setGeometry: Unable to set geometry 640x480+344+61 on QWidgetWindow/'DialogClassWindow'. Resulting geometry:  640x559+344+61 (frame: 8, 31, 8, 8, custom margin: 0, 0, 0, 0, minimum size: 400x559, maximum size: 16777215x16777215).
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(145) (2019-03-07 21:56:10 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:57:56 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:57:56 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:57:56 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(60) (2019-03-07 21:57:56 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:58:42 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:58:42 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:58:42 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(60) (2019-03-07 21:58:42 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(145) (2019-03-07 21:58:43 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 21:59:43 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 21:59:43 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 21:59:43 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(60) (2019-03-07 21:59:43 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(145) (2019-03-07 21:59:44 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 22:01:10 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 22:01:10 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 22:01:10 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(60) (2019-03-07 22:01:10 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(145) (2019-03-07 22:01:11 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 22:01:55 週四) This is a debug message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(58) (2019-03-07 22:01:55 週四) nihao 18 
+
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 22:01:55 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(60) (2019-03-07 22:01:55 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(145) (2019-03-07 22:01:56 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 22:14:49 週四) This is a debug message
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 22:14:49 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(60) (2019-03-07 22:14:49 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(145) (2019-03-07 22:14:49 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 22:17:52 週四) This is a debug message
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 22:17:52 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(60) (2019-03-07 22:17:52 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(145) (2019-03-07 22:17:52 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 22:20:33 週四) This is a debug message
+Warning: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 22:20:33 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(60) (2019-03-07 22:20:33 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\qtguiapplication1\qtguiapplication1\main.cpp) Line:(145) (2019-03-07 22:20:33 週四) Total Error: 536870912
+Debug: File:(c:\users\superorange\source\repos\ml_hw1\qtguiapplication1\main.cpp) Line:(57) (2019-03-07 22:21:44 週四) This is a debug message
+Warning: File:(c:\users\superorange\source\repos\ml_hw1\qtguiapplication1\main.cpp) Line:(59) (2019-03-07 22:21:44 週四) This is a warning message
+Critical: File:(c:\users\superorange\source\repos\ml_hw1\qtguiapplication1\main.cpp) Line:(60) (2019-03-07 22:21:44 週四) This is a critical message
+Debug: File:(c:\users\superorange\source\repos\ml_hw1\qtguiapplication1\main.cpp) Line:(145) (2019-03-07 22:21:44 週四) Total Error: 536870912
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 22:21:50 週四) "Can not find axis on the chart."
+Warning: File:(chartdataset.cpp) Line:(312) (2019-03-07 22:21:50 週四) "Can not find axis on the chart."
